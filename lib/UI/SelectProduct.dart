@@ -197,7 +197,8 @@ class _SelectProductState extends State<SelectProduct> {
   }
 }
 
-class AppColors {
+class AppColors
+{
   static const primary = Color(0xFFF19122);
   static const secondary = Color.fromRGBO(6, 202, 192, 1);
 }
